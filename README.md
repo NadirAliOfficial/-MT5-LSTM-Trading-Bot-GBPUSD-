@@ -58,4 +58,4 @@ python trading_bot.py
 ## Contact
 
 For help or customization, reach out on Telegram: [@NAKBlockDev](https://t.me/NAKBlockDev)
-<!-- updated: 2026-01-01-02 -->
+<!-- updated: 2026-02-15-03 -->
